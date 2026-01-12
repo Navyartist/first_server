@@ -27,7 +27,7 @@ def home():
     
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, use_reloader=False)
 
     #! 다음 단계: 웹페이지에 '다음' 버튼 추가
     #! 버튼 클릭 시, 내부 리스트에 저장된 유저 정보를 바꾸어 출력함(조회)
