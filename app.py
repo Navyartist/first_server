@@ -8,6 +8,7 @@ class User():
         self.name = name
         self.status = status
 
+#* user_list =[User('엘리베이터', '고장')]
 user_list =[]
 while True:
     name = input('user name 입력 (그만하려면 q): ')
