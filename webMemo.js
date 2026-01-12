@@ -36,3 +36,5 @@ function updateDate() {
 // 1초마다 실행
 setInterval(updateDate, 1000);
 updateDate(); // 실행하자마자 첫 화면을 보여주기 위해 호출
+
+// #
