@@ -1,3 +1,4 @@
+# 아주 간단한 플라스크 서버 구현하기 (서버-웹 메시지 전송 집중)
 from flask import Flask, render_template
 
 app = Flask(__name__)
