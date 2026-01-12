@@ -68,3 +68,17 @@ xml은 내맘대로 태그를 만들 수 있음 = 데이터 저장 일반
 
 practics 객체 = assemble(조립) 작업을 직접해낸것
 아무튼 assemble 작업은 마크업의 '규칙'만 준수하면 그만
+
+github pages PaaS(Platform~) 수준의 웹 빌드 서비스, 상업적이용은 불가
+
+IaaS
+    Infrastructure as a Service
+    처음부터 끝까지 내가 만듦
+
+SaaS
+Software as a Service
+    구글드라이브, 거의 대부분 (노션, github)
+    코드 안 써도 가능
+
+DaaS Desktop as a Service
+    완전체 서비스
